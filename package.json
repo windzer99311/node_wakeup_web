@@ -2,6 +2,7 @@
   "name": "wake-web",
   "version": "1.0.0",
   "main": "server.js",
+  "packageManager": "npm@9.8.0",
   "scripts": {
     "start": "node server.js"
   },
