@@ -1,7 +1,7 @@
 {
   "name": "wake-web",
   "version": "1.0.0",
-  "description": "Uptime monitor using Puppeteer and Express",
+  "description": "Uptime pinger using Puppeteer and Express",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -11,6 +11,7 @@
     "puppeteer": "^21.3.8"
   },
   "engines": {
-    "node": ">=18"
-  }
+    "node": ">=18.0.0"
+  },
+  "packageManager": "npm@9.8.0"
 }
